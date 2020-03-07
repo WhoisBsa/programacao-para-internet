@@ -1,0 +1,71 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+h1, p {
+    color: #333333;
+    font-family: 'Roboto';
+}
+
+#navtitle {
+    font-family: 'Saira Stencil One';
+}
+
+.navlink {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.navlink:after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px;  
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+  }
+
+.navlink:hover:after { transform: scaleX(1); }
+
+.navegadores {
+    color: #333333;
+    padding: 0.5em;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.anchor {
+    padding: 29.5px;
+}
+
+footer {
+    color: white;
+    background-image: 
+        linear-gradient(to top, #9ba8a8, #c8cec4);
+    padding: 3em 2em 5em 2em;
+    margin-top: 5em;
+}
+
+.iconfooter {
+    color: #ebebe7;
+    transition: 0.3s;
+}
+
+.iconfooter:hover {
+    color: #333333;
+}
+
+.imgnews {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.capa {
+    background: url("images/capa.png") no-repeat;
+    width: 100%;
+}
