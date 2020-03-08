@@ -40,7 +40,7 @@ POLÍTICA
 # LINK IMAGEM
     https://s2.glbimg.com/2JRqxHKPqCFmZcAQ0eE0Wx74spc=/0x0:1920x1080/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/l/m/rBStAFTAeOu4A8y2LcWA/maia.jpg
 # LINK DO POST
-
+    https://g1.globo.com/sp/sao-paulo/noticia/2020/03/06/maia-diz-que-teses-como-a-do-parlamentarismo-branco-sao-criadas-para-gerar-odio.ghtml
 
 
 
